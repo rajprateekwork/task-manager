@@ -7,7 +7,7 @@ This project demonstrates core frontend development concepts including component
 
 ## 🚀 Live Demo
 (Replace with your deployed link if available)  
-https://your-live-demo-link.com
+https://rajprateekwork.github.io/task-manager/
 
 ---
 
