@@ -6,14 +6,11 @@ This project demonstrates core frontend development concepts including component
 ---
 
 ## 🚀 Live Demo
-(Replace with your deployed link if available)  
 https://rajprateekwork.github.io/task-manager/
 
 ---
 
 ## 📸 Preview
-(Add screenshot here after running the project)
-Example:
 ![App Screenshot](screenshot.png)
 
 ---
@@ -36,9 +33,6 @@ Example:
 - HTML5
 - CSS3
 - LocalStorage API
-
----
-
 
 ---
 
